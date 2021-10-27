@@ -5,7 +5,7 @@ import 'animate.css';
 function App() {
   return (
     <div className="App">
-      <img src={callme} class="animate__animated animate__tada animate__delay-0.5s" height="80px" />
+      <img src={callme} class="animate__animated animate__tada animate__delay-0.5s" height="80px" alt="Call me emoji"/>
       <header>
         <h1>Howzit, I'm Jonathan!</h1>
         <ul>
